@@ -31,5 +31,3 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
     <li>Zabezpieczenie przed nagłym przerwaniem procedury płatności</li>
     <li>Baza danych na plikach może nie jest najlepszym rozwiązaniem ale oszczędza to czas podczas konfiguracji</li>
   </ul>
-
-<h4>Warto wspommnieć że każdą linijke tego kodu napisał ja i tylko ja... i to przed powstaniem ChatGPT </h4>
