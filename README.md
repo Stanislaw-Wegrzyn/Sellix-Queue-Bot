@@ -1,7 +1,7 @@
 # Sellix-Queue-Bot
 Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współpracując ze snajperką nitro poprzez webhook channel.
 
-<h2>Informacje ogólne</h2>
+<h2>Informacje ogólne: </h2>
 <ul>
 <li> <b>Język:</b> Python </li>
 <li> <b>Użyte biblioteki zewnętrzne:</b>
