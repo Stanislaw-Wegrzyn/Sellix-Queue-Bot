@@ -1,0 +1,51 @@
+{
+  "general": {
+    "token": "",
+
+    "guild_id": 0,
+    "admin_id": 0,
+
+    "warnings_channel_id": 0,
+    "leaderboard_channel_id": 0,
+
+    "customer_role_id": 0,
+
+    "your_service_name": "Queue + Sellix Bot",
+    "embeds_color": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  "velocitysniper": {
+    "velocity_logs_channel_id": 0,
+    "claims_channel_id": 0,
+    "total_claims_stats_channel_id": 0,
+    "classic_claim_emoji": "",
+    "boost_claim_emoji": "",
+    "api_links": []
+    },
+  "queue": {
+    "queue_channel_id": 0,
+    "waiting_order_emoji": "",
+    "current_order_emoji": "",
+    "hosts_username": "",
+    "hosts_password": "",
+    "hosts": []
+    },
+  "sellix": {
+    "api_key": "",
+    "merchant_name": "",
+    "email": "",
+    "sellix_logs_channel_id": 0,
+    "price_per_credit": 0,
+    "return_url": "https://dontasktoask.com/"
+  },
+  "bank": {
+    "bank_channel_id": 0
+  },
+  "claim_ping_reaction_role": {
+    "reaction_role_channel_id": 0,
+    "claims_ping_role_id": 0
+  }
+}
